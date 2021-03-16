@@ -12,6 +12,7 @@
 # Developed & Maintained by: Joe Deras
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Rorqualx/DerasYTAdBlockList/main/DerasYTAdBlockList.txt
 # ===============================================================
+^r-*sn-*---------------*\.
 ^r-*sn-*4g5ednle*\.
 ^r-*sn-*5uaeznrz*\.
 ^r-*sn-*hp57knll*\.
@@ -118,19 +119,7 @@
 ##.ytp-ad-progress-list
 =adunit&
 youtube.com###masthead-ad
-||doubleclick.net^
-||flashtalking.com$domain=youtube.com
-||googleadservices.com
-||googlesyndication.com^
-||s0.2mdn.net/ads
-||www.google.*/pagead$domain=youtube.com
-||www.youtube.com/[[computeEmptyGif_()]]$image
-||www.youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]
-||www.youtube.com/api/stats
-||www.youtube.com/pagead
-||www.youtube.com/ptracking
-
-^r-*sn-*---------------*\.
+^sn-4g5ednsz\.17oubleclick.net^
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
 ^adim(age|g)s?[0-9]*[_.-]
@@ -143,4 +132,4 @@ youtube.com###masthead-ad
 ^count(ers?)?[0-9]*[_.-]
 ^mads\.
 ^pixels?[-.]
-^stat(s|istics)?[0-9]*[_.-]
+^stat(s|istics)?[0-9]*[_.
