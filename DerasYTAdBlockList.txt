@@ -1,7 +1,12 @@
-#Title: DerasYTAdBlockList/hosts
-#Description: This hosts file is an attempt to block youtube ads by targeting the video tag itself. This might break youtube, use at your own discretion. The tags on this list have been tags that I have personally logged. I know that there are list out there with thousands of addressess. The issue I have found that is that youtube is rendered usless with these broad block list. This list of course is not free of error either and will from occasion block videos from playing back. 
+# Title: DerasYTAdBlockList/hosts
+# Description: This hosts file is an attempt to block youtube ads by targeting the video tag itself. 
+# This might break youtube, use at your own discretion. 
+# The tags on this list have been tags that I have personally logged. 
+# I have found that youtube is rendered usless with broad block list. This is an attempt to make a more 
+# targatted approach to ad blocking on youtube. 
+# This list of course is not free of error either and will from occasion block videos from playing back. 
 # Format: hosts
-# Date: 16 March 2021 02:08:43 (UTC)
+# Date: 16 March 2021 03:32:01 (UTC)
 # Number of unique domains: 114
 # Source: https://github.com/Rorqualx/DerasYTAdBlockList.git 
 # Developed & Maintained by: Joe Deras
